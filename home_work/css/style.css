@@ -50,7 +50,7 @@ header{
   color:white;
 }
 .baner{
-  background-image: url(/img/meat.jpg_fit=scale);
+  background-image: url(/img/meat.jpg);
   background-size: cover;
   height: 500px;
   position: relative;
