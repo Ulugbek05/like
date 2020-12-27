@@ -3,8 +3,10 @@ body{
   padding:0;
 }
 h1{
-  margin: 0;
-  
+  margin: 0;  
+}
+header{
+  background-color:silver;
 }
 .container{
   background-color: coral;
@@ -21,6 +23,48 @@ h1{
   display: inline-block;
   margin-left:30%;
 }
+.menu{
+  padding-right:20px;
+  padding-left: 20px;
+  font-size: 20px;
+  border-right: white 3px;
+}
 #home{
   color:coral;
 }
+#tel{
+  margin-left:70%;
+  font-size:30px;
+}
+.food{
+  background-color: darkslategrey;
+  color: white;
+  padding:20px;
+  border-right: white 3px solid;
+}
+.baner p{
+  text-align: center;
+  margin: 0;
+  font-size:100px;
+  padding-top:100px;
+  color:white;
+}
+.baner{
+  background-image: url(/img/meat.jpg_fit=scale);
+  background-size: cover;
+  height: 500px;
+  position: relative;
+}
+#pul{
+  font-size: 70px;
+  padding-top:70px;
+}
+button{
+ background-color: tomato;
+ color:White;
+ padding: 10px;
+ margin-left:47%;
+}
+
+
+
